@@ -7,7 +7,7 @@ to learn about the CRuby internals.
 
 ### Ruby Hack Challege
 
-Ruby Hack Challenge is a repository on Github created by Ko1 (Koichi Sasada). In this repo,
+[Ruby Hack Challenge ](https://github.com/ko1/rubyhackchallenge) is a repository on Github created by Ko1 (Koichi Sasada). In this repo,
 there are resources and documentation about CRuby development.
 
 ### Peter Zhu Personal Blob
